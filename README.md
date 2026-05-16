@@ -1,4 +1,7 @@
-# MercilessZero v17
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=8B0000&vCenter=true&width=500&height=70&lines=MercilessZero+v17" alt="MercilessZero v17" />
+</p>
+ 
 
 ​MercilessZero v17 — это концептуальный проект высокопроизводительного портативного устройства, которое можно охарактеризовать как кастомный микрокомпьютер или «хакерский» девайс нового поколения.
 
